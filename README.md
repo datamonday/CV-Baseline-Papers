@@ -1,5 +1,6 @@
 # Computer Vision Baseline Papers
 > contributor: datamonday
+> 
 > githubrepo: https://github.com/datamonday/CV-Baseline-Papers
 
 ---
@@ -48,64 +49,71 @@
 ---
 # 5. 生成式对抗网络（Generative Adversarial Network, GAN）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
+|  |  |  |  |  |  |  |  |
 
 ---
 # 6. 光学字符识别（Optical Character Recognition, OCR）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |  |  |  |  |  |  |  |  |
 
 ---
 # 7. 轻量化网络（Light Networks）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
+| SqueezeNet | [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360) | 2016 | 3862(05/07/2021) | Forrest N. Iandola, Song Han. et.al |  |  |  |
+|MobileNet  | [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861) | 2017 | 8124(05/07/2021) | Andrew G. Howard, Menglong Zhu. et.al |  |  | |
+| ShuffleNet | [ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](https://arxiv.org/abs/1707.01083) | 2017 | 2430(05/07/2021) | Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun |  |  |  |
+| Xception | [Xception: Deep Learning with Depthwise Separable Convolutions](https://arxiv.org/abs/1610.02357) | 2016 | 5016(05/07/2021) | François Chollet |  |  |  |
 
 ---
 # 8. 图神经网络（Graph Neural Networks）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
+|  |  |  |  |  |  |  |  |
 
 ---
 # 9. 人脸识别（Face Recognition）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |
-
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
+|  |  |  |  |  |  |  |  |
 
 ---
 # 10. 目标跟踪（Object Tracking）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |
-
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
+|  |  |  |  |  |  |  |  |
 
 ---
 # 11. 行人重识别（Person Re-identification, ReID）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |
-
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
+|  |  |  |  |  |  |  |  |
 
 ---
 # 12. 雷达点云（Lidar Point Clouds）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |
-
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
+|  |  |  |  |  |  |  |  |
 
 ---
 # 13. 3D重建（3D Reconstruction）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |
-
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
+|  |  |  |  |  |  |  |  |
 
 
 
 ---
 # 14. 图像重建（Image reconstruction）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |
-
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
+|  |  |  |  |  |  |  |  |
 
 
 
 ---
 # 15. 图像压缩（Image Compression）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
+|  |  |  |  |  |  |  |  |
