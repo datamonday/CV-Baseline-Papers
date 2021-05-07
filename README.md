@@ -50,12 +50,14 @@
 # 5. 生成式对抗网络（Generative Adversarial Network, GAN）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
 | :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
-|  |  |  |  |  |  |  |  |
+| GAN | [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) | 2014 | 30182(05/07/2021) | Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza. et.al |  |  |  |
+
 
 ---
 # 6. 光学字符识别（Optical Character Recognition, OCR）
 | 模型(Model) | 论文名称(Paper)| 年份(Year) | 被引(cited)  | 作者(Author) | 所属类别(Type) | 官方代码(Code) | 个人代码(Practice) |
-| :--- | :------- | :--- | :--- | :--- | :------- | :------- | :------- |  |  |  |  |  |  |  |  |
+| :--- | :------- | :--- | :--- | :--- | :------- | :------- |:------- |
+|  |  |  |  |  |  |  |  |
 
 ---
 # 7. 轻量化网络（Light Networks）
